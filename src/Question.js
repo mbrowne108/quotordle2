@@ -41,7 +41,7 @@ export default function Question({ questions }) {
 
     return (
         <div>
-            <h4>Score: {score}</h4>
+            <h4 className='score'>Score: {score}</h4>
             <div className='question'>
                 {!afterGuess ?
                     <div>
