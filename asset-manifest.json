@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/quotordle2/static/css/main.9c096934.css",
+    "main.js": "/quotordle2/static/js/main.131afe65.js",
+    "index.html": "/quotordle2/index.html",
+    "main.9c096934.css.map": "/quotordle2/static/css/main.9c096934.css.map",
+    "main.131afe65.js.map": "/quotordle2/static/js/main.131afe65.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.9c096934.css",
+    "static/js/main.131afe65.js"
+  ]
+}
